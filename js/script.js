@@ -534,11 +534,11 @@ updateNavbar();
 
 const roles = [
 
-    "Exhibition Project Executive",
+    "Eksekutif Proyek Pameran",
 
-    "Project Coordinator",
+    "Kordinator Proyek",
 
-    "Site Supervisor"
+    "Pengawas Lapangan"
 
 ];
 
