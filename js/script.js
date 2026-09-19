@@ -45,9 +45,9 @@ const typingRole =
    SETTINGS
 ===================================================== */
 
-const slideDuration = 3000;
+const slideDuration = 5000;
 
-const fadeDuration = 1800;
+const fadeDuration = 1000;
 
 
 
